@@ -687,14 +687,6 @@ https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?|o
 https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd?|origin=https://web.app.flow.com.py
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.ytimg.com/vi/PdFWZbnyyOs/hqdefault.jpg" group-title="🇵🇾 PARAGUAY",  RTV
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
-
-https://video.medios.com.py:3585/multi_live/play.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"  group-title="🇵🇾 PARAGUAY", Telefuturo.py
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -713,11 +705,6 @@ https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd?|origin=
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG"  group-title="🇵🇾 PARAGUAY", ABC TV.py
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-
-https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/d5c3ad0/2147483647/strip/true/crop/1665x1152+0+0/resize/400x277!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F0d%2F757573ac4c0bba7301c7a61a424d%2Flogo-latele.png"  group-title="🇵🇾 PARAGUAY", latele.py
 
@@ -765,13 +752,7 @@ https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mp
 
 http://159.203.148.226/live/farra_mid.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.masencarnacion.com/themes/mas-encarnacion/assets/tv/images/logo.png"  group-title="🇵🇾 PARAGUAY", MAS TV 
 
-http://129.80.85.171:8080/live/mastv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/2JxePoN.png"  group-title="🇵🇾 PARAGUAY", TVS
-
-https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 
 
  
